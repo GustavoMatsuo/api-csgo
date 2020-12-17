@@ -4,7 +4,7 @@ Api build with node (typescript), just for teaching.
 
 Now the api is very simple and with little information, on future i will add more.
 
-#### Base URL:   `https://git.heroku.com/api-csgo.git` 
+#### Base URL:   `https://api-csgo.herokuapp.com/` 
 
 Route|Value 
 --------|--------
